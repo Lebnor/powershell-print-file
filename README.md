@@ -9,10 +9,10 @@ An interactive powershell script that lists all files in a given directory and p
 5. If you can't run the script, use `UnblockFile -Path .\print-file.ps1` or `Set-ExecutionPolicy AllSigned` to grant permission to execute
 
 ## EXAMPLE
-### Run `.\print-file.ps1`
-
-You can see the main menu
+### Execute the script
+Run `.\print-file.ps1`
 ![image](https://user-images.githubusercontent.com/51367111/147822535-e87d9d78-0c30-4bf9-910b-c80ed6c19311.png)
+You can see the main menu
 
 ### Choose any file from the list
 for example, type 8
